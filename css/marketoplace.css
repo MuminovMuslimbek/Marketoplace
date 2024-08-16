@@ -337,10 +337,6 @@ footer {
     margin-top: -20px;
 }
 
-.submit:hover {
-    cursor: pointer;
-}
-
 .browse-form {
     max-width: 960px;
     position: relative;
@@ -350,6 +346,10 @@ footer {
     position: absolute;
     top: 18px;
     right: 20px;
+}
+
+.browse-form img:hover {
+    cursor: pointer;
 }
 
 .faourite {
