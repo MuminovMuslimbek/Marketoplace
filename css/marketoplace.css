@@ -342,10 +342,12 @@ footer {
     position: relative;
 }
 
-.browse-form img {
+.browse-form button {
     position: absolute;
     top: 18px;
     right: 20px;
+    background: none;
+    border: none;
 }
 
 .browse-form img:hover {
