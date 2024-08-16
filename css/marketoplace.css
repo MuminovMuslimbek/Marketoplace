@@ -337,6 +337,10 @@ footer {
     margin-top: -20px;
 }
 
+.submit:hover {
+    cursor: pointer;
+}
+
 .browse-form {
     max-width: 960px;
     position: relative;
